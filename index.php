@@ -54,19 +54,24 @@
 			<ol class="carousel-indicators">
 				<li data-target="#carousel-id" data-slide-to="0" class=""></li>
 				<li data-target="#carousel-id" data-slide-to="1" class=""></li>
-				<li data-target="#carousel-id" data-slide-to="2" class="active"></li>
+				<li data-target="#carousel-id" data-slide-to="2" class=""></li>
+				<li data-target="#carousel-id" data-slide-to="3" class="active"></li>
 			</ol>
 			<div class="carousel-inner">
 				<div class="item">
-					<img data-src="public/imagenes/1.jpg" alt="First slide" src="public/imagenes/1.jpg">
+					<img data-src="public/imagenes/12.jpg" alt="First slide" src="public/imagenes/12.jpg">
 					
 				</div>
 				<div class="item">
-					<img data-src="public/imagenes/2.jpg" src="public/imagenes/2.jpg">
+					<img data-src="public/imagenes/20.jpg" src="public/imagenes/20.jpg">
+
+					</div>
+				<div class="item">
+					<img data-src="public/imagenes/3.jpg" src="public/imagenes/3.jpg">
 					
 				</div>
 				<div class="item active">
-					<img data-src="public/imagenes/3.jpg" alt="Third slide" src="public/imagenes/3.jpg">
+					<img data-src="public/imagenes/4.jpg" alt="Third slide" src="public/imagenes/4.jpg">
 					
 				</div>
 			</div>
